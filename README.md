@@ -65,7 +65,7 @@ Pour terminer la construction de notre class nous allons rajouter la fonction __
 
 Dans le fichier Game_membre.php amuserez vous avec la class Membre pour bien comprendre comment cela marche l'utilisation de Get Pouura vous être utile.
 
-Exercice 6: Le divorce entre HTML et Php<br/<
+<h2>Exercice 6: Le divorce entre HTML et Php</h2><br/>
 Fichier à ré-utilisez: Membre.php(ex5) + tout les autre fichier de l'exercie 1-4
 Dossier Donnée: Ex_6
 
