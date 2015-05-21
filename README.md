@@ -50,7 +50,7 @@ Le Fichier '<strong>Cible_Membre_ex4.php</strong>' vous allez devoir afficher l'
 <strong>Fichier à crée:</strong> Game_Membre.php<br/>
 
 <strong>But:</strong> Transformet le fichier '<strong>Membre.php</strong>'  en classe php. Pour cela vous allez dans un premier temps englober l'intégralité des fonctions dans le texte ci-dessous:<br/>
-<em>class Membre{<br/>/* Metre les fonctions dedans */<br/>}<br/>
+<em>class Membre{<br/>/* Metre les fonctions dedans */<br/>}<br/></em>
 
 Nous allons maintenant ajouter les variables suivantes à la classe Membre: nom et prénom qui sont égaux à null par défaut et statut qui vaux -1 par défaut. Pour terminer la construction de notre classe nous allons rajouter la fonction '__construct' qui prendra l'id du membre dans la base de données et qui aura pour but d'initialiser les différentes variables. Certaine fonction des exercices précédents peuvent donc subir quelque modification.
 
