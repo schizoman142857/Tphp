@@ -50,13 +50,13 @@ Le Fichier Cible_Membre_ex4.php vous allez devoir affichier l'intégraliter des 
 <strong>Fichier à crée:</strong> Game_Membre.php<br/>
 
 <strong>But: </strong> Transformet le fichier Membre.php en class php
-Pour cela vous allez dans un premier temps anglober l'intergralité dans fonction dans le texte ci-dessous:
-<em>class Membre
-{
-/* Metre les fonction dedqns */
-}</em>
+Pour cela vous allez dans un premier temps anglober l'intergralité dans fonction dans le texte ci-dessous:<br/>
+<em>class Membre<br/>
+{<br/>
+/* Metre les fonction dedqns */<br/>
+}<br/></em>
 
-Nous allons maintenant ajouter les variable suivant à la class Membre: nom et prenom qui sont egaux a null par default et statut qui vaux -1 par default
+Nous allons maintenant ajouter les variable suivant à la class Membre: <br/>nom et prenom qui sont egaux a null par default et statut qui vaux -1 par default
 
 Pour terminer la construction de notre class nous allons rajouter la fonction '<strong>__construct</strong>' qui prendra l'id du membre dans la base de donnée et qui aura pour but d'initialiser les differente variables.
 
