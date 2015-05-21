@@ -7,9 +7,9 @@ Tp sur le php réaliser a Epitech Rennes
 <strong>Fichier à crée:</strong> Membre.php, Cible_Membre_ex1.php<br/>
 <strong>Fichier Donnée:</strong> index_ex1.php
 
-<strong>But:</strong> Votre mission si vous l'accepter est de crée la fonction "GetUserInfo", elle aura pour but de retourner les informations d'un utilisateur, elle prend en parametre une nom et prenom d'utilisateur est retourne le resultat de la requête. Cette fonction devra etre coder dans le fichier '<strong>Membre.php</strong>'
+<strong>But:</strong> Votre mission si vous l'accepter est de crée la fonction '<strong>GetUserInfo</strong>', elle aura pour but de retourner les informations d'un utilisateur, elle prend en parametre une nom et prenom d'utilisateur est retourne le resultat de la requête. Cette fonction devra etre coder dans le fichier '<strong>Membre.php</strong>'
 
-Dans le fichier Cible_Membre_ex1.php vous devrez recupére les nom et prenom de l'utilisateur ciblé et appeler la fonction '<strong>GetUserInfo</strong>' un rendu HTML devra etre fait(form libre).
+Dans le fichier '<strong>Cible_Membre_ex1.php</strong>' vous devrez recupére les nom et prenom de l'utilisateur ciblé et appeler la fonction '<strong>GetUserInfo</strong>' un rendu HTML devra etre fait(form libre).
 
 <h2>Exercice 2: Plus on est de fous moins il y a de riz.</h2><br/>
 </strong>Fichier a ré-utilisez:</stron> Membre.php<br/>
@@ -18,7 +18,7 @@ Dans le fichier Cible_Membre_ex1.php vous devrez recupére les nom et prenom de 
 
 <strong>But:</strong> Dans cette exercice vous devrez ajouter un utilisateur a votre base de donnée pour cela ajouter au fichier Membre.php la fonction '<strong>AddUser</strong>' elle devra pendre en compte le nom et prenom. elle devra retourner un Bool qui indiquera si la requete est un succés ou non. 
 
-le fichier Cible_Membre_ex2.php devra etre capable d'indiquer par un message si l'ajout a fonctionner, si il a marcher les informations de l'utilisateur devront etre afficher.
+le fichier '<strong>Cible_Membre_ex2.php</strong>' devra etre capable d'indiquer par un message si l'ajout a fonctionner, si il a marcher les informations de l'utilisateur devront etre afficher.
 
 <h2>Exercice 3: L'erreur est humaine...</h2><br/>
 <strong>Fichier à ré-utilisez:</strong> Membre.php<br/>
@@ -30,7 +30,7 @@ le fichier Cible_Membre_ex2.php devra etre capable d'indiquer par un message si 
   - <strong>UpdatePrenom:</strong> elle devra prendre en compte l'ancien et le nouveau prenom, vous devrais par le systeme de votre choix etre informer du succés de la requête.
   - <strong>UpdateStatut:</strong> elle devra pendre en compte le nom et prenom du l'utilsateur visé et aussi le numero du statut (Admin = 0, Padawan = 1, Confirmer = 2)
 
-le Fichier Cible_Membre_ex3.php devra gérer les differentes modifications
+le Fichier '<strong>Cible_Membre_ex3.php</strong>' devra gérer les differentes modifications
 
 <h2>Exercice 4: BigBrowers is watching you</h2><br/>
 <strong>Fichier à ré-utilisez:</strong> Membre.php<br/>
@@ -38,7 +38,7 @@ le Fichier Cible_Membre_ex3.php devra gérer les differentes modifications
 
 <strong>But:</strong>trong> Avec cette exercice vous allez devoir réaliser la fonction '<strong>getAllUser</strong>' qui ne prend rien en parametre est qui retourne tout les utilisateurs dans un tableau. elle devra etre ajouter au fichier '<strong>Membre.php</strong>'
 
-Le Fichier Cible_Membre_ex4.php vous allez devoir affichier l'intégraliter des utilisateur, un afficher avec les balises table en html serait souhaiter. pour l'affichage foreach pourrait etre utile.
+Le Fichier '<strong>Cible_Membre_ex4.php</strong>' vous allez devoir affichier l'intégraliter des utilisateur, un afficher avec les balises table en html serait souhaiter. pour l'affichage foreach pourrait etre utile.
 
 <h1>Un peu plus de fun avec le php</h1>
 
@@ -60,7 +60,7 @@ Nous allons maintenant ajouter les variable suivant à la class Membre: <br/>nom
 
 Pour terminer la construction de notre class nous allons rajouter la fonction '<strong>__construct</strong>' qui prendra l'id du membre dans la base de donnée et qui aura pour but d'initialiser les differente variables.
 
-Dans le fichier Game_membre.php amuserez vous avec la class Membre pour bien comprendre comment cela marche l'utilisation de Get Pouura vous être utile.
+Dans le fichier '<strong>Game_membre.php</strong>' amuserez vous avec la class Membre pour bien comprendre comment cela marche l'utilisation de Get Pouura vous être utile.
 
 <h2>Exercice 6: Le divorce entre HTML et Php</h2><br/>
 <strong>Fichier à ré-utilisez:</strong> Membre.php(ex5) + tout les autre fichier de l'exercie 1-4<br/>
