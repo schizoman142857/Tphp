@@ -54,7 +54,7 @@ Le Fichier '<strong>Cible_Membre_ex4.php</strong>' vous allez devoir afficher l'
 
 Nous allons maintenant ajouter les variables suivantes à la classe Membre: nom et prénom qui sont égaux à null par défaut et statut qui vaux -1 par défaut. Pour terminer la construction de notre classe nous allons rajouter la fonction '<strong>__construct</strong>' qui prendra l'id du membre dans la base de données et qui aura pour but d'initialiser les différentes variables. Certaine fonction des exercices précédents peuvent donc subir quelque modification.
 
-Dans le fichier '</strong>Game_membre.php</strong>' amuserez vous avec la classe Membre pour bien comprendre comment cela marche, l'utilisation de Get Pouura vous être utile.
+Dans le fichier '<strong>Game_membre.php</strong>' amuserez vous avec la classe Membre pour bien comprendre comment cela marche, l'utilisation de Get Pouura vous être utile.
 
 <h2>Exercice 6: Le divorce entre HTML et Php</h2><br/>
 <strong>Fichier à ré-utilisez:</strong> Membre.php(ex5) + tout les autre fichier de l'exercie 1-4<br/>
