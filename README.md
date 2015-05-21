@@ -60,7 +60,7 @@ Dans le fichier '</strong>Game_membre.php</strong>' amuserez vous avec la classe
 <strong>Fichier à ré-utilisez:</strong> Membre.php(ex5) + tout les autre fichier de l'exercie 1-4<br/>
 <strong>Dossier Donnée:</strong> Ex_6<br/>
 
-Dans un premier temps  recherche ce qu'est un template en php et sur smarty (le template présenté dans ce tp) Modifier les exercices 1 à 4 en incluant les notions de séparation du php et du html et celle de l'exercice 
+Dans un premier temps  recherche ce qu'est un template en php et sur smarty (le template présenté dans ce tp) Modifier les exercices 1 à 4 en incluant les notions de séparation du php et du html et celle de l'exercice précédent.
 
 <h2>Exercice 7: Silence ! I kill you</h2><br/>
 <strong>Fichier à ré-utilisez:</strong> Membre.php</br>
