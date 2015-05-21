@@ -65,16 +65,14 @@ Pour terminer la construction de notre class nous allons rajouter la fonction __
 
 Dans le fichier Game_membre.php amuserez vous avec la class Membre pour bien comprendre comment cela marche l'utilisation de Get Pouura vous être utile.
 
-Exercice 6: Le divorce entre HTML et Php
-
+Exercice 6: Le divorce entre HTML et Php<br/<
 Fichier à ré-utilisez: Membre.php(ex5) + tout les autre fichier de l'exercie 1-4
 Dossier Donnée: Ex_6
 
 Dans un premier temps faite des recherche ce qu'est un template en php et sur smarty(le template presenter)
 Modifier les exercices 1 à 4 en incluant les notions de séparation du php et du html et celle de l'exercice 6
 
-Exercice 7: Silence ! I kill you
-
+Exercice 7: Silence ! I kill you<br/>
 Fichier à ré-utilisez: Membre.php
 fichier à crée: Admin.php
 
