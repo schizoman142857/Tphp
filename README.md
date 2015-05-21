@@ -6,6 +6,7 @@ Description: Ce tp a pour but d'introduire tout les notions importants du php en
 
 
 Exercice 1 : Qui suis-je
+
 Fichier à crée: Membre.php, Cible_Membre_ex1.php
 Fichier Donnée: index_ex1.php
 
@@ -14,6 +15,7 @@ But: Votre mission si vous l'accepter est de crée la fonction "GetUserInfo", el
 Dans le fichier Cible_Membre_ex1.php vous devrez recupére les nom et prenom de l'utilisateur ciblé et appeler la fonction 'GetUserInfo' un rendu HTML devra etre fait(form libre).
 
 Exercice 2: Plus on est de fous moins il y a de riz.
+
 Fichier a ré-utilisez: Membre.php
 Fichier Donnée: index_ex2.php
 Fichier à crée: Cible_Membre_ex2.php
@@ -23,6 +25,7 @@ But: Dans cette exercice vous devrez ajouter un utilisateur a votre base de donn
 le fichier Cible_Membre_ex2.php devra etre capable d'indiquer par un message si l'ajout a fonctionner, si il a marcher les informations de l'utilisateur devront etre afficher.
 
 Exercice 3: L'erreur est humaine...
+
 Fichier à ré-utilisez: Membre.php
 Fichier Donnée: index_ex3.php
 Fichier à crée: Cible_Membre_ex3.php
@@ -35,6 +38,7 @@ But: En ajout une nouvelle utilisateur de multiple erreur on était comise votre
 le Fichier Cible_Membre_ex3.php devra gérer les differentes modifications
 
 Exercice 4: BigBrowers is watching you
+
 Fichier à ré-utilisez: Membre.php
 Fichier à crée: Cible_Membre_ex4.php
 
@@ -66,11 +70,20 @@ Pour terminer la construction de notre class nous allons rajouter la fonction __
 Dans le fichier Game_membre.php amuserez vous avec la class Membre pour bien comprendre comment cela marche l'utilisation de Get Pouura vous être utile.
 
 Exercice 6: Le divorce entre HTML et Php
-Fichier à ré-utilisez: Membre.php
-Fichier à crée: Game_Membre.php
+
+Fichier à ré-utilisez: Membre.php(ex5) + tout les autre fichier de l'exercie 1-4
 Dossier Donnée: Ex_6
 
 Dans un premier temps faite des recherche ce qu'est un template en php et sur smarty(le template presenter)
 Modifier les exercices 1 à 4 en incluant les notions de séparation du php et du html et celle de l'exercice 6
 
 Exercice 7: Silence ! I kill you
+
+Fichier à ré-utilisez: Membre.php
+fichier à crée: Admin.php
+
+But: Pour cette exercice vous allez cree la Class Admin au sein du fichier Admin.php pour cela vous allez la faire heriter de Membre.php et ajouter la fonction DeleteUser qui prendra un nom et prenom et qui aura pour but de suprimer l'utilisateur
+
+Exercice 8: Clara Morgan Salllllllllloppe
+
+Faites des Recherches sur les differents CMS en php
