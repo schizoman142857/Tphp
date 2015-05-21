@@ -25,7 +25,7 @@ le fichier Cible_Membre_ex2.php devra etre capable d'indiquer par un message si 
 <strong>Fichier Donnée:</strong> index_ex3.php<br/>
 <strong>Fichier à crée:</strong> Cible_Membre_ex3.php<br/>
 
-<strong>But:</strong> <strong>En ajout une nouvelle utilisateur de multiple erreur on était comise votre but sera de les corriger. Pour cela vous allez devoit creer dans le fichier Membre.php les fonction suivant:
+<strong>But:</strong>En ajout une nouvelle utilisateur de multiple erreur on était comise votre but sera de les corriger. Pour cela vous allez devoit creer dans le fichier Membre.php les fonction suivant:
   - <strong>UpdateName:</strong> elle devra prendre en compte l'ancien et le nouveau name, vous devrais par le systeme de votre choix etre informer du succés de la requête.
   - <strong>UpdatePrenom:</strong> elle devra prendre en compte l'ancien et le nouveau prenom, vous devrais par le systeme de votre choix etre informer du succés de la requête.
   - <strong>UpdateStatut:</strong> elle devra pendre en compte le nom et prenom du l'utilsateur visé et aussi le numero du statut (Admin = 0, Padawan = 1, Confirmer = 2)
