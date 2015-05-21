@@ -5,8 +5,7 @@ Description: Ce tp a pour but d'introduire tout les notions importants du php en
 
 
 
-Exercice 1 : Qui suis-je
-
+Exercice 1 : Qui suis-je<br/>
 Fichier à crée: Membre.php, Cible_Membre_ex1.php
 Fichier Donnée: index_ex1.php
 
@@ -14,8 +13,7 @@ But: Votre mission si vous l'accepter est de crée la fonction "GetUserInfo", el
 
 Dans le fichier Cible_Membre_ex1.php vous devrez recupére les nom et prenom de l'utilisateur ciblé et appeler la fonction 'GetUserInfo' un rendu HTML devra etre fait(form libre).
 
-Exercice 2: Plus on est de fous moins il y a de riz.
-
+Exercice 2: Plus on est de fous moins il y a de riz.<br/>
 Fichier a ré-utilisez: Membre.php
 Fichier Donnée: index_ex2.php
 Fichier à crée: Cible_Membre_ex2.php
@@ -24,8 +22,7 @@ But: Dans cette exercice vous devrez ajouter un utilisateur a votre base de donn
 
 le fichier Cible_Membre_ex2.php devra etre capable d'indiquer par un message si l'ajout a fonctionner, si il a marcher les informations de l'utilisateur devront etre afficher.
 
-Exercice 3: L'erreur est humaine...
-
+Exercice 3: L'erreur est humaine...<br/>
 Fichier à ré-utilisez: Membre.php
 Fichier Donnée: index_ex3.php
 Fichier à crée: Cible_Membre_ex3.php
@@ -37,8 +34,7 @@ But: En ajout une nouvelle utilisateur de multiple erreur on était comise votre
 
 le Fichier Cible_Membre_ex3.php devra gérer les differentes modifications
 
-Exercice 4: BigBrowers is watching you
-
+Exercice 4: BigBrowers is watching you<br/>
 Fichier à ré-utilisez: Membre.php
 Fichier à crée: Cible_Membre_ex4.php
 
@@ -52,7 +48,7 @@ Un peu plus de fun avec le php
 Pour les exercice qui suive n'esiter pas a demander de l'aide le plus régulièrement possible.
 
 
-Exercice 5: un peu plus de forme
+Exercice 5: un peu plus de forme<br/>
 Fichier à ré-utilisez: Membre.php
 Fichier à crée: Game_Membre.php
 
