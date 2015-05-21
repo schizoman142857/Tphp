@@ -1,13 +1,13 @@
 # Tphp
 Tp sur le php réaliser a Epitech Rennes 
 
-Description: Ce tp a pour but d'introduire tout les notions importants du php en passant par le plus simple est en allant jusqu'au plus compliquer(MVC). Ce tp introduit une comunication avec une base de donnée merci de bien avoir lancer le script SQL
+<strong>Description:</strong> Ce tp a pour but d'introduire tout les notions importants du php en passant par le plus simple est en allant jusqu'au plus compliquer(MVC). Ce tp introduit une comunication avec une base de donnée merci de bien avoir lancer le script SQL
 
 <h2>Exercice 1 : Qui suis-je</h2><br/>
-Fichier à crée: Membre.php, Cible_Membre_ex1.php
-Fichier Donnée: index_ex1.php
+<strong>Fichier à crée:</strong> Membre.php, Cible_Membre_ex1.php<br/>
+<strong>Fichier Donnée:</strong> index_ex1.php
 
-But: Votre mission si vous l'accepter est de crée la fonction "GetUserInfo", elle aura pour but de retourner les informations d'un utilisateur, elle prend en parametre une nom et prenom d'utilisateur est retourne le resultat de la requête. Cette fonction devra etre coder dans le fichier 'Membre.php'
+<strong>But:</strong> Votre mission si vous l'accepter est de crée la fonction "GetUserInfo", elle aura pour but de retourner les informations d'un utilisateur, elle prend en parametre une nom et prenom d'utilisateur est retourne le resultat de la requête. Cette fonction devra etre coder dans le fichier 'Membre.php'
 
 Dans le fichier Cible_Membre_ex1.php vous devrez recupére les nom et prenom de l'utilisateur ciblé et appeler la fonction 'GetUserInfo' un rendu HTML devra etre fait(form libre).
 
