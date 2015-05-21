@@ -34,11 +34,11 @@ le Fichier '<strong>Cible_Membre_ex3.php</strong>' devra gérer les différentie
 
 <h2>Exercice 4: BigBrowers is watching you</h2><br/>
 <strong>Fichier à ré-utilisez:</strong> Membre.php<br/>
-<strong>Fichier à crée:</strong> Cible_Membre_ex4.php<br/>
+<strong>Fichier à crée:</strong> index_membre_ex4.php<br/>
 
 <strong>But:</strong> Avec cet exercice vous allez devoir réaliser la fonction '<strong>getAllUser</strong>' qui ne prend rien en paramètre est qui retourne toutes les utilisateurs dans un tableau. elle devra être ajouté au fichier '<strong>Membre.php</strong>'
 
-Le Fichier '<strong>Cible_Membre_ex4.php</strong>' vous allez devoir afficher l'intégralité des utilisateurs, un affichage avec les balises tables en html serait souhaiter. pour l'affichage foreach pourrait être utile.
+Le Fichier '<strong>index_membre_ex4.php</strong>' vous allez devoir afficher l'intégralité des utilisateurs, un affichage avec les balises tables en html serait souhaiter. pour l'affichage foreach pourrait être utile.
 
 <h1>Un peu plus de fun avec le php</h1>
 
