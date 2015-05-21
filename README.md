@@ -40,10 +40,9 @@ But: Avec cette exercice vous allez devoir réaliser la fonction getAllUser() qu
 
 Le Fichier Cible_Membre_ex4.php vous allez devoir affichier l'intégraliter des utilisateur, un afficher avec les balises table en html serait souhaiter. pour l'affichage foreach pourrait etre utile.
 
-----------------------------------------------------------------------------------------------------------------------------
-Un peu plus de fun avec le php
-----------------------------------------------------------------------------------------------------------------------------
-Pour les exercice qui suive n'esiter pas a demander de l'aide le plus régulièrement possible.
+<h1>Un peu plus de fun avec le php</h1>
+
+<h4>Pour les exercice qui suive n'esiter pas a demander de l'aide le plus régulièrement possible.</h4>
 
 
 <h2>Exercice 5: un peu plus de forme</h2><br/>
