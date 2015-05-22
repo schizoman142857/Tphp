@@ -5,7 +5,7 @@ Tp sur le php réaliser à Epitech Rennes
 
 <h2>Exercice 1 : Qui suis-je</h2><br/>
 <strong>Fichier à crée:</strong> Membre.php, Cible_Membre_ex1.php<br/>
-<strong>Fichier Donnée:</strong> index_ex1.php
+<strong>Fichier Donnée:</strong> index_ex1.php, user.sql
 
 <strong>But:</strong> Votre mission si vous l'acceptez est de créer la fonction '<strong>GetUserInfo</strong>', elle aura pour but de retourner les informations d'un utilisateur, elle prend en paramètre un nom et prénom d'utilisateur et retourner le résultat de la requête. Cette fonction devra être codé dans le fichier '<strong>Membre.php</strong>'
 
